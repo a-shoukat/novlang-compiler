@@ -1,0 +1,4 @@
+// Novlang - Hello World
+let name = "Nova";
+print("Hello, " + name + "!");
+print("Welcome to Novlang.");
